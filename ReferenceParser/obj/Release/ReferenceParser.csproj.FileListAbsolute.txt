@@ -1,0 +1,14 @@
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Release\ReferenceParser.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Release\ReferenceParser.pdb
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Release\DMBTools.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Release\ReferenceCheck.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Release\ReferenceCheck.pdb
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.csprojResolveAssemblyReference.cache
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.pdb
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\bin\Release\ReferenceParser.dll
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\bin\Release\ReferenceParser.pdb
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.csproj.CoreCompileInputs.cache
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.csproj.CopyComplete
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.dll
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Release\ReferenceParser.pdb

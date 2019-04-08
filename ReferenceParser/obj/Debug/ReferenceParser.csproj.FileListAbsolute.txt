@@ -1,0 +1,33 @@
+C:\Application developments\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.dll
+C:\Application developments\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.pdb
+C:\Application developments\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.dll
+C:\Application developments\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.pdb
+C:\Application developments\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.xml
+C:\Application developments\ReferenceParser\ReferenceParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Application developments\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.dll
+C:\Application developments\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.pdb
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.pdb
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.pdb
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.xml
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.dll
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.pdb
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.dll
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.pdb
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.dll
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.pdb
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.xml
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.csprojResolveAssemblyReference.cache
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.dll
+C:\DeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.pdb
+C:\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.csprojResolveAssemblyReference.cache
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.dll
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\bin\Debug\ReferenceParser.pdb
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\bin\Debug\DMBTools.dll
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\bin\Debug\ReferenceCheck.dll
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.csprojAssemblyReference.cache
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.csproj.CoreCompileInputs.cache
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.csproj.CopyComplete
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.dll
+C:\Users\Scott\BDApp\ReferenceParser\ReferenceParser\obj\Debug\ReferenceParser.pdb
